@@ -599,7 +599,7 @@ window.snake.more_menu = function() {
           
           <script>
 /* Get the element you want displayed in fullscreen mode (a video in this example): */
-var elem = document.getElementById("myvideo");
+var elem = document.getElementById("div.zsInrf");
 
 /* When the openFullscreen() function is executed, open the video in fullscreen.
 Note that we must include prefixes for different browsers, as they don't support the requestFullscreen method yet */
